@@ -7,7 +7,7 @@
 ## 🧑‍💻 About Me
 
 - 🧠 I love building backend systems using **Java**, **Spring Boot**, and **MySQL**
-- 🎯 Currently diving deep into **Game Development** & learning **full-stack game engineering**
+- 🎯 Currently diving deep into **Game Development** & learning **full-stack Developer**
 - ⚙️ Building real-world projects like **Game Store API**, practicing validation, API design, and exception handling
 - 🕉️ Rooted in Jain values, with a tech-driven mindset 💡
 
@@ -41,7 +41,7 @@ Includes validations, custom exception handling, MySQL integration, and Postman 
 ## 🧭 Currently Learning
 
 - ✅ Spring Security + JWT
-- ✅ Game Server Design Patterns
+- ✅ Design Patterns
 - ✅ Unity (C#) Basics
 
 ---
