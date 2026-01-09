@@ -34,7 +34,6 @@
 A fully functional **Spring Boot REST API** to manage games, publishers, categories, and more.  
 Includes validations, custom exception handling, MySQL integration, and Postman collection.
 
-📂 GitHub Repo: [Srijan-coder-creator/game-store-api](https://github.com/Srijan-coder-creator/game-store-api)
 
 ---
 
